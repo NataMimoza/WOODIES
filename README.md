@@ -1,1 +1,1 @@
-This is a project to create a website for a wooden furniture store.
+This is a project for a wooden furniture store website.
